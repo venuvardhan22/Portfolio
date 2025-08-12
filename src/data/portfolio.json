@@ -1,0 +1,247 @@
+{
+  "personal": {
+    "name": "Venu Vardhan Dommeti",
+    "title": "B. Tech in Computer Science",
+    "email": "venuvardhandommeti@email.com",
+    "phone": "+91 8639051956",
+    "location": "Tanuku, Andhra Pradesh, India",
+    "website": "https://johndoe.dev",
+    "bio": "Aspiring IT graduate seeking an entry-level software development role to apply skills in Python, cloud computing, and web development. Passionate about building scalable applications, leveraging machine learning, and delivering innovative solutions. Dedicated to continuous learning, growth, and contributing effectively in a dynamic team environment.",
+    "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "intro": "I'm a passionate developer who loves turning ideas into beautiful, functional applications. Welcome to my digital space where creativity meets code.",
+    "resumeUrl": "https://drive.google.com/file/d/1raqbzMRcDEDZho82A84_ud2HHw4egrdb/view?usp=drive_link"
+  },
+  "social": {
+    "github": "https://github.com/venuvardhan22",
+    "linkedin": "https://linkedin.com/in/venu-vardhan-d2018"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "school": "Sagi Rama Krishnam Raju Engineering College, Bhimavaram",
+      "year": "2021 - 2025",
+      "gpa": "8.68/10.0"
+    },
+    {
+      "degree": "Board of Intermediate Education",
+      "school": "Tirumala Junior College, Rajamahendravaram",
+      "year": "2019 - 2021",
+      "gpa": "98%"
+    },
+    {
+      "degree": "Secondary School Certificate (10th Grade)",
+      "school": "Dr. K. K. R's Gowtham Concept School, Rajamahendravaram",
+      "year": "2018 - 2019",
+      "gpa": "10.0/10.0"
+    }
+  ],
+  "skills": {
+    "web": ["React.js", "Node.js", "Express.js", "Flask", "HTML5", "Tailwind CSS", "MySQL", "MongoDB","Firebase"],
+    "ml_genai": ["Data Preprocessing", "Data Analytics", "Machine Learning", "Deep Learning", "Neural Networks", "TensorFlow", "GenerativeAI", "Transformers", "Langchain", "RAG"],
+    "tools": ["Git", "GitHub", "AWS", "Vercel", "VS Code", "Postman", "Android Studios", "PowerBI"],
+    "languages": ["Python", "Java", "C", "C++", "SQL", "JavaScript"]
+  },
+  "experience": [
+    {
+      "title": "Machine Learning Intern",
+      "company": "Hexart.In",
+      "duration": "Dec 2024 - Feb 2025",
+      "location": "Hyderabad, Telangana",
+      "responsibilities": [
+        "Designed and developed an automated face recognition attendance system using React.js, Flask, and MongoDB.",
+        "Built a real-time dashboard for attendance visualization and analytics.",
+        "Integrated face recognition with KDTree for efficient and accurate matching.",
+        "Collaborated with the team to optimize system performance and reliability."
+      ]
+    },
+    {
+      "title": "Data Analytics Intern",
+      "company": "Oasis Infobyte",
+      "duration": "Feb 2024 - Apr 2024",
+      "location": "Remote",
+      "responsibilities": [
+        "Completed 5 key tasks including 2 machine learning projects and 2 data analysis assignments.",
+        "Developed and deployed a Power BI dashboard for insightful data visualization.",
+        "Received certificate of completion and letter of recommendation for successful project delivery."
+          ]
+    },
+    {
+      "title": "AWS Cloud Computing Intern",
+      "company": "Blackbucks",
+      "duration": "Sep 2023 - Oct 2023",
+      "location": "Remote",
+      "responsibilities": [
+        "Gained hands-on experience with AWS services including EC2 and IAM.",
+        "Developed a user-based access control system with automatic bootstrapping for efficient user management.",
+        "Implemented permission-based bootstrapping to ensure script execution only with head approval, maintaining confidentiality.",
+        "Collaborated with cross-functional teams using Agile methodologies."
+      ]
+    }
+
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Powered Chatbot using RAG",
+      "description": "An intelligent chatbot system utilizing Retrieval-Augmented Generation to provide context-aware and accurate responses. Integrated with LangChain, Gemini LLM, and embedding models for advanced query understanding, with a Gradio-based interactive UI for seamless user experience.",
+      "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "LangChain", "RAG", "Gradio", "Gemini LLM", "all-minilm"],
+      "github": "https://github.com/venuvardhan22/Chatbot_Using_RAG",
+      "demo": "https://ecommerce-demo.vercel.app",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Chat Application using MERN Stack",
+      "description": "A full-stack real-time chat platform built with MERN stack and Socket.IO for instant messaging. Features include secure authentication with JWT, private chats, and persistent message storage in MongoDB for a seamless communication experience.",
+      "image": "https://images.pexels.com/photos/7342998/pexels-photo-7342998.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "JWT"],
+      "github": "https://github.com/venuvardhan22/Chat-App",
+      "demo": "https://chat-app-kgyq.onrender.com",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Osteoporosis Detection Using Hybrid ML",
+      "description": "A medical diagnostic system that leverages hybrid machine learning models to detect osteoporosis from bone scan images. Combines deep learning for image feature extraction with traditional ML algorithms for classification, improving accuracy and early detection rates.",
+      "image": "https://images.pexels.com/photos/7446999/pexels-photo-7446999.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["React.js", "Python", "Flask", "Deep Learning", "Machine Learning"],
+      "github": "https://github.com/venuvardhan22/Early-detection-of-Osteoporosis",
+      "demo": "https://osteoporosis-demo.vercel.app",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "YouTube Video Rater",
+      "description": "An AI-powered tool that analyzes YouTube video comments using NLP to provide sentiment scores and engagement ratings. Integrates with the YouTube API to fetch real-time data and delivers insightful visualizations for content evaluation.",
+      "image": "https://images.pexels.com/photos/5081404/pexels-photo-5081404.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["React.js", "Python", "Flask", "BERT LLM", "YouTube API"],
+      "github": "https://github.com/venuvardhan22/yt-comments-rater",
+      "demo": "https://blog-demo.vercel.app",
+      "featured": false
+    }
+,
+    {
+      "id": 5,
+      "title": "Find A House",
+      "description": "A user-friendly platform for searching rental houses and PG accommodations with interactive maps and filters. Utilizes Firebase for real-time data storage and Google Maps API for location-based property listings and navigation.",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["HTML", "CSS", "JavaScript", "Firebase", "Google Maps API"],
+      "github": "https://github.com/venuvardhan22/Find_A_PG",
+      "demo": "https://blog-demo.vercel.app",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Image Quality Enhancer",
+      "description": "An AI-driven image enhancement tool that uses deep learning techniques like autoencoders and convolutional neural networks to improve image clarity, reduce noise, and upscale resolution while preserving details.",
+      "image": "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "Deep Learning", "TensorFlow", "Autoencoders", "CNN"],
+      "github": "https://github.com/johndoe/blog-platform",
+      "demo": "https://blog-demo.vercel.app",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Banking Customer Churn Analysis",
+      "description": "A Power BI dashboard project analyzing banking customer churn data to identify key churn drivers, track retention metrics, provide actionable insights for reducing customer attrition through interactive visualizations.",
+      "image": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Power BI", "Data Analysis", "Data Visualization"],
+      "github": "https://github.com/johndoe/blog-platform",
+      "demo": "https://app.powerbi.com/view?r=your-dashboard-link",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": "Health Tracker",
+      "description": "A mobile app that helps users monitor their daily health metrics like steps, heart rate, and sleep patterns. Built using Android Studio with Firebase integration for real-time data syncing and personalized health insights.",
+      "image": "https://images.pexels.com/photos/4167541/pexels-photo-4167541.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Android Studio", "XML", "Java", "Firebase"],
+      "github": "https://github.com/venuvardhan22/HealthTracker",
+      "demo": "https://blog-demo.vercel.app",
+      "featured": false
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Research Paper Publication",
+      "organization": "Springer",
+      "year": "2025",
+      "description": "Co-Author of research on concrete strength prediction using Deep Forest machine learning model"
+    },
+    {
+      "title": "Hackathon Top 3",
+      "organization": "Prajwalan 2k24 Hackathon",
+      "year": "2024",
+      "description": "Third place winner for developing an innovative face recognition based attendance app in 24 hours."
+    },
+    {
+      "title": "Competitive Programming",
+      "organization": "HackerRank",
+      "year": "2025",
+      "description": "Earned over 1000 Hackos through consistent problem-solving and coding challenges."
+    },
+    {
+    "title": "Academic Excellence",
+    "organization": "Intermediate Education",
+    "year": "2019",
+    "description": "Achieved 98% in Intermediate examinations."
+    }
+
+  ],
+  "courses": [
+    {
+      "title": "Web Development",
+      "provider": "SkillDzire",
+      "completionDate": "April 2025",
+      "certificateUrl": "https://drive.google.com/file/d/16j_SajSetJbvG17sQQuIef7NS3mjEOVJ/view?usp=drive_link",
+      "skills": ["React.js", "Node.js", "Express.js"]
+    },
+    {
+      "title": "ChatGPT and GenAI",
+      "provider": "Blackbucks",
+      "completionDate": "July 2024",
+      "certificateUrl": "https://drive.google.com/file/d/1lAllt1PejJZgg0efVMdzcLmKZB6Vx4-J/view?usp=drive_link",
+      "skills": ["LLMs", "Transformers", "LangChain", "GenerativeAI"]
+    },
+    {
+      "title": "Artificial Intelligence",
+      "provider": "Hexart.In",
+      "completionDate": "January 2024",
+      "certificateUrl": "https://drive.google.com/file/d/1EgSYcxaLnyXf0B89HHhPeXnFiBAcAL2g/view?usp=drive_link",
+      "skills": ["Deep Learning", "Fine tuning", "Computer Vision", "NLP"]
+    },
+    {
+      "title": "Data Analytics Essentials",
+      "provider": "Cisco",
+      "completionDate": "January 2024",
+      "certificateUrl": "https://drive.google.com/file/d/1xA03GSkoVVAYxOdyWzh-rf4Eg2bPg-7L/view?usp=drive_link",
+      "skills": ["Python", "Data Analytics", "Data Preprocessing", "PowerBI"]
+    },
+    {
+      "title": "CNNAv7 : Networks",
+      "provider": "Cisco",
+      "completionDate": "November 2023",
+      "certificateUrl": "https://drive.google.com/file/d/1lQ9yDWoL1Usfrit0wWBMPHljlyFyEHPU/view?usp=drive_link",
+      "skills": ["Computer Networking", "Protocols", "IP Addressing"]
+    }
+  ],
+  "hobbies": [
+    {
+      "category": "Creative",
+      "items": ["Photography", "Gardening", "Exploring local cuisines", "Editing"]
+    },
+    {
+      "category": "Physical",
+      "items": ["Walking", "Cricket", "Cycling", "Working Out"]
+    },
+    {
+      "category": "Intellectual",
+      "items": ["Reading Tech Blogs", "Exploring AI trends", "Chess", "Podcasts"]
+    },
+    {
+      "category": "Social",
+      "items": ["Participating in hackathons","Open Source Contributing"]
+    }
+  ]
+}
