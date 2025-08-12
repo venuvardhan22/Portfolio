@@ -5,7 +5,7 @@
     "email": "venuvardhandommeti@email.com",
     "phone": "+91 8639051956",
     "location": "Tanuku, Andhra Pradesh, India",
-    "website": "https://johndoe.dev",
+    "website": "https://github.com/venuvardhan22",
     "bio": "Aspiring IT graduate seeking an entry-level software development role to apply skills in Python, cloud computing, and web development. Passionate about building scalable applications, leveraging machine learning, and delivering innovative solutions. Dedicated to continuous learning, growth, and contributing effectively in a dynamic team environment.",
     "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
     "intro": "I'm a passionate developer who loves turning ideas into beautiful, functional applications. Welcome to my digital space where creativity meets code.",
@@ -117,7 +117,7 @@
       "image": "https://images.pexels.com/photos/5081404/pexels-photo-5081404.jpeg?auto=compress&cs=tinysrgb&w=600",
       "technologies": ["React.js", "Python", "Flask", "BERT LLM", "YouTube API"],
       "github": "https://github.com/venuvardhan22/yt-comments-rater",
-      "demo": "https://blog-demo.vercel.app",
+      "demo": "#",
       "featured": false
     }
 ,
@@ -128,7 +128,7 @@
       "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
       "technologies": ["HTML", "CSS", "JavaScript", "Firebase", "Google Maps API"],
       "github": "https://github.com/venuvardhan22/Find_A_PG",
-      "demo": "https://blog-demo.vercel.app",
+      "demo": "#",
       "featured": false
     },
     {
@@ -137,8 +137,8 @@
       "description": "An AI-driven image enhancement tool that uses deep learning techniques like autoencoders and convolutional neural networks to improve image clarity, reduce noise, and upscale resolution while preserving details.",
       "image": "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?auto=compress&cs=tinysrgb&w=600",
       "technologies": ["Python", "Deep Learning", "TensorFlow", "Autoencoders", "CNN"],
-      "github": "https://github.com/johndoe/blog-platform",
-      "demo": "https://blog-demo.vercel.app",
+      "github": "https://github.com/venuvardhan22",
+      "demo": "#",
       "featured": false
     },
     {
@@ -147,8 +147,8 @@
       "description": "A Power BI dashboard project analyzing banking customer churn data to identify key churn drivers, track retention metrics, provide actionable insights for reducing customer attrition through interactive visualizations.",
       "image": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=600",
       "technologies": ["Power BI", "Data Analysis", "Data Visualization"],
-      "github": "https://github.com/johndoe/blog-platform",
-      "demo": "https://app.powerbi.com/view?r=your-dashboard-link",
+      "github": "https://github.com/venuvardhan22",
+      "demo": "#",
       "featured": false
     },
     {
@@ -158,7 +158,7 @@
       "image": "https://images.pexels.com/photos/4167541/pexels-photo-4167541.jpeg?auto=compress&cs=tinysrgb&w=600",
       "technologies": ["Android Studio", "XML", "Java", "Firebase"],
       "github": "https://github.com/venuvardhan22/HealthTracker",
-      "demo": "https://blog-demo.vercel.app",
+      "demo": "#",
       "featured": false
     }
   ],
